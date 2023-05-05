@@ -7,6 +7,10 @@
     {
       "source": "/api/hono/(.*)",
       "destination": "/api/hono"
+    },
+    {
+      "source": "/api/hono/nodejs/(.*)",
+      "destination": "/api/hono/nodejs"
     }
   ],
   "regions": ["hnd1"]

@@ -5,6 +5,7 @@
     "start": "vercel dev"
   },
   "dependencies": {
+    "@hono/node-server": "^0.6.0",
     "@vercel/edge": "^0.3.4",
     "@vercel/kv": "^0.1.1",
     "@vercel/node": "^2.14.1",
